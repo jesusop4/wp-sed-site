@@ -1,0 +1,59 @@
+# Translation of Plugins - Real Accessability - Development (trunk) in Portuguese (Brazil)
+# This file is distributed under the same license as the Plugins - Real Accessability - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-04-12 19:28:11+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: pt_BR\n"
+"Project-Id-Version: Plugins - Real Accessability - Development (trunk)\n"
+
+#. Author of the plugin/theme
+msgid "REALMEDIA"
+msgstr "REALMEDIA"
+
+#. Description of the plugin/theme
+msgid "Real Accessability plugin adds custom accessability such as font resizer, color inverse, black & white view and much more"
+msgstr "O plugin Real Accessability adiciona acessibilidade customizada como mudar tamanho da fonte, inverter cores, preto e branco e muito mais "
+
+#. #-#-#-#-#  tmp-real-accessability.pot (Real Accessability 1.0)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  tmp-real-accessability.pot (Real Accessability 1.0)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "https://realmedia.co.il"
+msgstr "https://realmedia.co.il"
+
+#. Plugin Name of the plugin/theme
+msgid "Real Accessability"
+msgstr "Real Accessability"
+
+#: real-accessability.php:80
+msgid "Reset"
+msgstr "Redefinir"
+
+#: real-accessability.php:79
+msgid "Regular Font"
+msgstr "Fonte regular"
+
+#: real-accessability.php:78
+msgid "Highlight Links"
+msgstr "Destacar links "
+
+#: real-accessability.php:77
+msgid "Inverse Colors"
+msgstr "Inverter cores"
+
+#: real-accessability.php:76
+msgid "Black & White"
+msgstr "Preto e branco"
+
+#: real-accessability.php:75
+msgid "Decrease Font"
+msgstr "Diminuir fonte"
+
+#: real-accessability.php:74
+msgid "Increase Font"
+msgstr "Aumentar fonte"

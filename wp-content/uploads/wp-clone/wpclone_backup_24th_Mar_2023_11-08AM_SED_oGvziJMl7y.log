@@ -1,0 +1,18 @@
+Friday, 24-Mar-2023 11:08:25 - backup started
+Friday, 24-Mar-2023 11:08:25 - wp version     : 6.1.1
+Friday, 24-Mar-2023 11:08:25 - php version    : 8.1.10
+Friday, 24-Mar-2023 11:08:25 - mysql version  : 10.4.25
+Friday, 24-Mar-2023 11:08:25 - memory limit   : 1024M
+Friday, 24-Mar-2023 11:08:25 - execution time : 600
+Friday, 24-Mar-2023 11:08:25 - mysql timeout  : 
+Friday, 24-Mar-2023 11:08:25 - socket timeout : 600
+Friday, 24-Mar-2023 11:08:25 - files larger than 25 MB will be excluded from the backup
+Friday, 24-Mar-2023 11:08:25 - generating file list
+Friday, 24-Mar-2023 11:08:26 - number of files to include in the archive is 6746, and their uncompressed size is 165.13 MB
+Friday, 24-Mar-2023 11:08:26 - finished generating file list
+Friday, 24-Mar-2023 11:08:26 - database backup started
+Friday, 24-Mar-2023 11:08:26 - backing up tables with "sea_" prefix
+Friday, 24-Mar-2023 11:08:26 - number of tables to backup - 21
+Friday, 24-Mar-2023 11:08:27 - database backup finished
+Friday, 24-Mar-2023 11:08:27 - archiving files using ziparchive
+Friday, 24-Mar-2023 11:09:31 - backup finished
