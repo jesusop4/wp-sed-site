@@ -31,3 +31,4 @@
 							honeypress_breadcrumbs();
 						endif; ?>
 						<div id="wrapper">
+							 <?php echo do_shortcode( '[flexy_breadcrumb]'); ?> 
